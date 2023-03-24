@@ -21,6 +21,7 @@ mono_crash.*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
+cmake-build-debug/
 x64/
 x86/
 [Ww][Ii][Nn]32/
@@ -68,6 +69,9 @@ ScaffoldingReadMe.txt
 
 # StyleCop
 StyleCopReport.xml
+
+# Files built by CLion
+.idea/
 
 # Files built by Visual Studio
 *_i.c
